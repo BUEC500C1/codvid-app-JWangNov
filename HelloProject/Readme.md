@@ -14,7 +14,12 @@ Scan the QR code to deploy.
 
 
 ## Hello Props
-
 ![Server Screenshot](screenshots/hp_0.png)
 
 ![Client Screenshot](screenshots/hp_1.jpeg)
+
+
+## Hello Classes
+![Server Screenshot](screenshots/hc_0.png)
+
+![Client Screenshot](screenshots/hc_1.jpeg)
