@@ -32,11 +32,18 @@ Just a hello world project for homework grading.
 [Project readme file is here.](HelloProject/Readme.md)
 
 
+## Map Display
+Step 3
+
+Display the map on my device. The [source code](steps/App_Step3.js) is here.
+
+![Screenshot of step 3](steps/Screenshot_Step3.jpeg)
+
 
 ## Steps
 (for homework grading)
 - [X] Step 1
 - [X] Step 2
-- [ ] Step 3
+- [X] Step 3
 - [ ] Step 4
 - [ ] Step 5
