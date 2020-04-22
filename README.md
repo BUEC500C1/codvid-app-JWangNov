@@ -40,10 +40,18 @@ Display the map on my device. The [source code](steps/App_Step3.js) is here.
 ![Screenshot of step 3](steps/Screenshot_Step3.jpeg)
 
 
+## CODVID-19 API Usage
+Step 4
+
+Please checkout branch [step4](https://github.com/BUEC500C1/codvid-app-JWangNov/tree/step4) to see implementation.
+
+![Screenshot of step 4](steps/Screenshot_Step4.png)
+
+
 ## Steps
 (for homework grading)
 - [X] Step 1
 - [X] Step 2
 - [X] Step 3
-- [ ] Step 4
+- [X] Step 4
 - [ ] Step 5
