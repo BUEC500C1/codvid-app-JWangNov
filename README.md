@@ -48,10 +48,7 @@ Please checkout branch [step4](https://github.com/BUEC500C1/codvid-app-JWangNov/
 ![Screenshot of step 4](steps/Screenshot_Step4.png)
 
 
-## Steps
-(for homework grading)
-- [X] Step 1
-- [X] Step 2
-- [X] Step 3
-- [X] Step 4
-- [ ] Step 5
+## My CODVID-19 Data-mapping App
+[Step 5](steps/RPReplay_Final1587828013.MOV)
+
+![Step 5 GIF](steps/RPReplay_Final1587828013.gif)
